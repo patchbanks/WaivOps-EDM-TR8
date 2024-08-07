@@ -15,7 +15,7 @@ The primary objective of this dataset is to provide accessible content for machi
 - 3790 audio loops (approximately 9 hours)
 - 24-bit WAV format
 - BPM labeled
-- Tempo range: 90–130bpm
+- Tempo range: 95–130bpm
 - Variational drum patterns
 - Multi-genre rhythm styles
 
