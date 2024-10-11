@@ -13,7 +13,7 @@ The primary objective of this dataset is to provide accessible content for machi
 **Specifications**
 
 - 3790 audio loops (approximately 9 hours)
-- 24-bit WAV format
+- 16-bit WAV format
 - BPM labeled
 - Tempo range: 95–130bpm
 - Variational drum patterns
@@ -31,9 +31,9 @@ This dataset is developed by WaivOps, a crowdsourced music project managed by so
 The EDM-TR8 dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ## Download
 
-The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
+The audio files are provided in 16-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (4.4GB) [edm_tr9_drm_id_001.gz](https://zenodo.org/records/13257814/files/edm_tr8_drm_id_001-0013_wav.tar.gz?download=1)
+Direct Download (4.4GB) [edm_tr8_drm_id_001-0013_wav.tar.gz](https://zenodo.org/records/13257814/files/edm_tr8_drm_id_001-0013_wav.tar.gz?download=1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13257814.svg)](https://doi.org/10.5281/zenodo.13257814)
 ## File Name Reference
